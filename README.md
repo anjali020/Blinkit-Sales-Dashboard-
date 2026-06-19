@@ -1,4 +1,5 @@
 Blinkit-Sales-Dashboard
+
 Recommended Structure and Order
 
 1. Project Title / Headline
@@ -20,18 +21,17 @@ The dashboard was built using the following tools and technologies:
 🔗 Data Modeling – Relationship management and optimization for analytical reporting.
 📈 Data Visualization – KPI cards, bar charts, donut charts, trend analysis, and matrix tables.
 📁 File Format – .pbix for development and dashboard deployment.
+
 4. Data Source
+Source:
+The dataset contains transactional and outlet-level information related to BlinkIT's grocery business operations. It includes details about product categories, outlet characteristics, sales performance, and customer ratings, enabling comprehensive retail analytics and business intelligence reporting.
 
-Source:1. Project Title / Headline
-
-BlinkIT Sales Performance Analytics Dashboard
-An interactive Power BI dashboard designed to analyze BlinkIT's sales performance, customer preferences, outlet characteristics, and product trends. The dashboard enables stakeholders to monitor key business metrics, compare outlet performance, and identify opportunities for revenue growth and operational optimization.
 5. Features / Highlights
- # Business Problem
+  Business Problem
 
 Retail businesses like BlinkIT generate large volumes of transactional data daily. Understanding which products perform best, how outlet characteristics affect sales, and what drives customer satisfaction can be challenging without a centralized analytical platform.
- # Goal of the Dashboard
-
+  
+  Goal of the Dashboard
 To provide an interactive business intelligence solution that:
 
 Tracks overall sales performance.
@@ -39,7 +39,8 @@ Identifies top-performing outlet categories.
 Analyzes product demand by category.
 Evaluates outlet efficiency by size and location.
 Supports strategic business decisions using data-driven insights.
- # Walkthrough of Key Visuals
+ 
+  Walkthrough of Key Visuals
 📌 KPI Cards (Top Section)
 
 Provides a quick overview of core business metrics:
@@ -50,7 +51,8 @@ Number of Items Sold: 9K
 Average Rating: 4.0
 
 These KPIs offer an instant snapshot of business performance.
- # Business Impact & Insights
+ 
+ Business Impact & Insights
 📈 Revenue Optimization
 
 Management can identify high-performing outlet formats and replicate successful business models.
@@ -74,6 +76,7 @@ Product demand patterns enable better stock allocation and reduce inventory inef
 💰 Sales Growth Opportunities
 
 The dashboard highlights revenue-generating categories and outlet segments, helping maximize profitability.
+
 6. Screenshots / Demos
-Show what the dashboard looks like. Example: 
+Show what the dashboard looks like. Example: https://github.com/anjali020/Blinkit-Sales-Dashboard-/blob/main/dashboard%20overiew.png
 
