@@ -23,7 +23,7 @@ The dashboard was built using the following tools and technologies:
 📁 File Format – .pbix for development and dashboard deployment.
 
 ### 4.  Data Source
-data Source: BlinkIT Grocery Data.xlsx 
+data Source: [BlinkIT Grocery Data.xlsx](
 
 The dataset contains transactional and outlet-level information related to BlinkIT's grocery business operations. It includes details about product categories, outlet characteristics, sales performance, and customer ratings, enabling comprehensive retail analytics and business intelligence reporting.
 
@@ -78,4 +78,4 @@ Product demand patterns enable better stock allocation and reduce inventory inef
 The dashboard highlights revenue-generating categories and outlet segments, helping maximize profitability.
 
 ###  6.  Screenshots / Demos
-Show what the dashboard looks like. ![BlinkIT Dashboard](dashboard_overiew.png)
+Show what the dashboard looks like. Example: ![image alt](https://github.com/anjali020/Blinkit-Sales-Dashboard-/blob/fd8f0380fe7042f52f3832902b6595e32536b9f8/dashboard%20overiew.png)
