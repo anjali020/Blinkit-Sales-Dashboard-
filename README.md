@@ -26,25 +26,6 @@ Source:1. Project Title / Headline
 
 BlinkIT Sales Performance Analytics Dashboard
 An interactive Power BI dashboard designed to analyze BlinkIT's sales performance, customer preferences, outlet characteristics, and product trends. The dashboard enables stakeholders to monitor key business metrics, compare outlet performance, and identify opportunities for revenue growth and operational optimization.
-
-2. Short Description / Purpose
-
-The BlinkIT Sales Performance Analytics Dashboard provides a comprehensive overview of sales, product performance, outlet efficiency, and customer ratings across different outlet types, sizes, and locations. It helps business managers, analysts, and decision-makers gain actionable insights into sales trends and consumer behavior to improve business performance.
-
-3. Tech Stack
-
-The dashboard was built using the following tools and technologies:
-
-📊 Power BI Desktop – Used for creating interactive reports and visualizations.
-📂 Power Query – Data extraction, transformation, and cleaning.
-🧠 DAX (Data Analysis Expressions) – Used for KPI calculations, measures, and business logic.
-🔗 Data Modeling – Relationship management and optimization for analytical reporting.
-📈 Data Visualization – KPI cards, bar charts, donut charts, trend analysis, and matrix tables.
-📁 File Format – .pbix for development and dashboard deployment.
-4. Data Source
-
-Source:https://github.com/anjali020/Blinkit-Sales-Dashboard-/blob/main/BlinkIT%20Grocery%20Data.xlsx
-The dataset contains transactional and outlet-level information related to BlinkIT's grocery business operations. It includes details about product categories, outlet characteristics, sales performance, and customer ratings, enabling comprehensive retail analytics and business intelligence reporting.
 5. Features / Highlights
  # Business Problem
 
