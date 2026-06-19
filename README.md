@@ -78,6 +78,6 @@ Product demand patterns enable better stock allocation and reduce inventory inef
 The dashboard highlights revenue-generating categories and outlet segments, helping maximize profitability.
 
 ###  6.  Screenshots / Demos
-Show what the dashboard looks like. Example:![Dashboard Preview]
+Show what the dashboard looks like. Example:![Dashboard Preview]images/dashboard overiew.png 
 https://github.com/anjali020/Blinkit-Sales-Dashboard-/blob/main/dashboard%20overiew.png
 
