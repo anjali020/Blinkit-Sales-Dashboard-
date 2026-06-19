@@ -29,9 +29,11 @@ The dataset contains transactional and outlet-level information related to Blink
 
 ### 5.  Features / Highlights
  - Business Problem
+   
 Retail businesses like BlinkIT generate large volumes of transactional data daily. Understanding which products perform best, how outlet characteristics affect sales, and what drives customer satisfaction can be challenging without a centralized analytical platform.
   
-  -Goal of the Dashboard
+ -Goal of the Dashboard
+ 
 To provide an interactive business intelligence solution that:
 Tracks overall sales performance.
 Identifies top-performing outlet categories.
@@ -40,6 +42,7 @@ Evaluates outlet efficiency by size and location.
 Supports strategic business decisions using data-driven insights.
  
  - Walkthrough of Key Visuals
+   
 📌 KPI Cards (Top Section)
 Provides a quick overview of core business metrics:
 Total Sales: $1.20M
@@ -49,22 +52,29 @@ Average Rating: 4.0
 These KPIs offer an instant snapshot of business performance.
  
 - Business Impact & Insights
+
 📈 Revenue Optimization
+
 Management can identify high-performing outlet formats and replicate successful business models.
 
 🎯 Product Strategy
+
 Understanding top-selling product categories helps optimize inventory planning and procurement.
 
 🏬 Store Expansion Planning
+
 Location and outlet size insights support data-driven decisions for future store openings.
 
 👥 Customer Satisfaction Monitoring
+
 Average rating analysis helps track customer experience and identify improvement opportunities.
 
 📦 Inventory Management
+
 Product demand patterns enable better stock allocation and reduce inventory inefficiencies.
 
 💰 Sales Growth Opportunities
+
 The dashboard highlights revenue-generating categories and outlet segments, helping maximize profitability.
 
 ###  6.  Screenshots / Demos
