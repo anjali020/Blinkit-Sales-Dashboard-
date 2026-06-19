@@ -32,7 +32,7 @@ The dataset contains transactional and outlet-level information related to Blink
    
 Retail businesses like BlinkIT generate large volumes of transactional data daily. Understanding which products perform best, how outlet characteristics affect sales, and what drives customer satisfaction can be challenging without a centralized analytical platform.
   
- -Goal of the Dashboard
+ - Goal of the Dashboard
  
 To provide an interactive business intelligence solution that:
 Tracks overall sales performance.
