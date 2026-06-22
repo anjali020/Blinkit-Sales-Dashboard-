@@ -15,7 +15,9 @@ SHOW COLUMNS FROM BlinkIT_Sales;
 
 SELECT `Item Identifier`
 FROM BlinkIT_Sales;
--- 
+
+
+-- Duplicate count
 SELECT `Item Identifier`,
        COUNT(*) AS Duplicate_Count
 FROM BlinkIT_Sales
